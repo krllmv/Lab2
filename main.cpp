@@ -1,10 +1,10 @@
 #include <iostream>
-#include <cstdlib> // для system
+#include <cstdlib> 
 using namespace std;
 
 int main()
 {
     cout << "Hello, world!" << endl;
-    system("pause"); // Только для тех, у кого MS Visual Studio
+    system("pause"); 
     return 0;
 }
